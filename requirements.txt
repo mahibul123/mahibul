@@ -5,3 +5,4 @@ plotly
 seaborn
 DateTime
 openpyxl
+streamlit_extras
